@@ -1,0 +1,6 @@
+{
+  "name": "IndiPrint SaaS",
+  "description": "Full-stack Digital Print & Document Delivery SaaS Portal with UPI payments, customer portals, Passport Photo maker, PDF password support, and Auto Printing Agent queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
